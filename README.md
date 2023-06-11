@@ -1,7 +1,7 @@
 # googledorksite
 A simple Site for automated google dorking techniques
 
-"open .me" with notepad or notepad++ or some other utf-8 encoded text reading service
+#open  ".me" with notepad or notepad++ or some other utf-8 encoded text reading service
 
 The internet has become an integral part of our daily lives, connecting us to information, entertainment, and each other. However,
 not all websites are accessible to everyone, as some may be blocked or deprecated. This can be frustrating for users who rely on certain websites, 
