@@ -1,5 +1,6 @@
 # googledorksite
 A simple Site for automated google dorking techniques
+
 The internet has become an integral part of our daily lives, connecting us to information, entertainment, and each other. However,
 not all websites are accessible to everyone, as some may be blocked or deprecated. This can be frustrating for users who rely on certain websites, 
 particularly those that utilize online P2P servers
@@ -25,12 +26,12 @@ internet freedom and access to information should also be considered, as they ma
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# ██╗   ██╗███████╗ █████╗  ██████╗ ███████╗
-# ██║   ██║██╔════╝██╔══██╗██╔════╝ ██╔════╝
-# ██║   ██║███████╗███████║██║  ███╗█████╗  
-# ██║   ██║╚════██║██╔══██║██║   ██║██╔══╝  
-# ╚██████╔╝███████║██║  ██║╚██████╔╝███████╗
-#  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+██╗   ██╗███████╗ █████╗  ██████╗ ███████╗
+██║   ██║██╔════╝██╔══██╗██╔════╝ ██╔════╝
+██║   ██║███████╗███████║██║  ███╗█████╗  
+██║   ██║╚════██║██╔══██║██║   ██║██╔══╝  
+╚██████╔╝███████║██║  ██║╚██████╔╝███████╗
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
 --------------------------------------------
 to use any of the premade htm files is easy,
@@ -41,4 +42,5 @@ file path of what you opened)
 Any .Note files are just premade templates for certain
 functions and uses and you can copy them if you wanna add
 something to your "site" files.
+
 
