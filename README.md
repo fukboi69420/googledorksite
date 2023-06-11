@@ -25,14 +25,7 @@ However, most websites should still be accessible to users, even if P2P servers 
 internet freedom and access to information should also be considered, as they may impact the ability of users to communicate and share information online.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-██╗   ██╗███████╗ █████╗  ██████╗ ███████╗
-██║   ██║██╔════╝██╔══██╗██╔════╝ ██╔════╝
-██║   ██║███████╗███████║██║  ███╗█████╗  
-██║   ██║╚════██║██╔══██║██║   ██║██╔══╝  
-╚██████╔╝███████║██║  ██║╚██████╔╝███████╗
- ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
-
+# Usage
 --------------------------------------------
 to use any of the premade htm files is easy,
 open htm file and it will open a static site "hosted"
